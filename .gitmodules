@@ -1,0 +1,7 @@
+[submodule "source/aws-iot-binding/conf.d/app-templates"]
+	path = source/aws-iot-binding/conf.d/app-templates
+	url = https://gerrit.automotivelinux.org/gerrit/p/apps/app-templates.git
+[submodule "source/aws-iot-binding/aws-iot-device-sdk-cpp"]
+	path = source/aws-iot-binding/aws-iot-device-sdk-cpp
+	url = https://github.com/aws/aws-iot-device-sdk-cpp.git
+	branch = release
