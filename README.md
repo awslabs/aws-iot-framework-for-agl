@@ -4,7 +4,7 @@ AWS IoT Framework for AGL is the reference implementation to enable native integ
 
 ## Build an AGL image for AWS Greengrass Core
 
-Set up the build environment to create an AGL image by following the steps from [AGL Documentation](http://docs.automotivelinux.org/docs/devguides/en/dev/reference/sdk-devkit/docs/part-1/1_0_Abstract.html)
+Set up the build environment to create an AGL image by following the steps from [AGL Documentation](https://docs.automotivelinux.org/docs/en/master/getting_started/reference/getting-started/image-workflow-intro.html)
 
 When you click on the link, you will see the steps as outlined below
 1.	Setting up your operating system
